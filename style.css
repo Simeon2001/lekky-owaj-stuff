@@ -1,0 +1,41 @@
+
+.simply{
+    width: 10%;
+    height: 10%;
+}
+
+.search{
+    margin-left: 200px;
+    
+}
+
+.one{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.butt{
+    color: white;
+    background-color: blueviolet;
+}
+
+.resume{
+    width: 90%;
+
+}
+
+.r-box, .d-box, .j-box, .c-box{
+    display: flex;
+}
+
+.direct{
+    width: 70%;
+}
+
+.browse{
+    margin-left: 35em;
+}
+
+.bg{
+    background-image: url("/hero-bg.webp");
+    min-height: 100%;
+}
